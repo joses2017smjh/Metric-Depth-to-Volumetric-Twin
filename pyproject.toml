@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "v3d"
+version = "0.1.0"
+description = "Metric Depth to Volumetric Twin — open-source SAOT built on SoccerNet-v3D"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "opencv-python-headless",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

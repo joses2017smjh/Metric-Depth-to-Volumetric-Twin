@@ -1,0 +1,9 @@
+# Env: conda create -n v3d python=3.11; pip install -r requirements.txt
+torch==2.13.0
+torchvision==0.28.0
+ultralytics==8.4.98
+opencv-python-headless==5.0.0.93
+numpy==2.4.6
+pandas==3.0.3
+pyarrow==25.0.0
+matplotlib==3.11.0

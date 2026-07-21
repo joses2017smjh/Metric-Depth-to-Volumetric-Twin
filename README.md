@@ -52,15 +52,36 @@ Progression: reproduce the baseline exactly (weeks 1–2) → tracks 1→2→3 a
 independent quick wins (weeks 3–6) → track 5 as the main event, with track 4
 woven in wherever triangulation happens.
 
+## Status
+
+- **Phase 0 — DONE.** Environment built (PyTorch 2.13 + CUDA 13, GPU: Quadro
+  RTX 8000, 46 GB), `v3d` loader package written and tested against the real
+  release files (6/6 tests pass). Geometry validated: reprojecting `ball_3D`
+  with our `Camera` reproduces the paper's published `rep_error` to a **median
+  of 0.002 px** (p95 0.014 px) across all 4,051 annotated frames — the pinhole
+  model, K/R/t assembly, and projection convention are correct.
+- **Phase 1 — next.** YOLO ball-detector eval on SNv3D-test, then the monocular
+  ball-size-prior 3D baseline.
+
+Dataset as loaded: 400 matches, 5,872 action frames, 7,839 replay frames,
+5,872 action→replay multi-view groups, ~81.6k player boxes with pose keypoints.
+Split: 3,241 train / 810 test.
+
 ## Plan of record
 
-### Phase 0 — Environment & data
+### Phase 0 — Environment & data ✓
 1. Scaffold the repo: `src/`, `configs/`, `notebooks/`, `eval/`, with a
    PyTorch + CUDA env (ultralytics, opencv, numpy, pandas).
 2. Data loader for the `Labels-v3D.json` schema (SoccerNet-calibration format:
    pan/tilt/roll, focal, position_meters, rotation_matrix, distortion) and the
    ball CSV (`ball_bbox`, `ball_3D`, `rep_error`, JaC columns). Handle the
    ISSIA camera 2/6 horizontal flip.
+
+The loaders live in [`src/v3d/`](src/v3d/): `calibration.py` (the `Camera`
+model + coordinate-frame notes), `labels.py` (per-match `Labels-v3D.json`),
+`snv3d.py` (the flat `SNv3D.csv` ball table + split files), `issia.py` (six
+fixed cameras + the cam 2/6 flip), and `parsing.py` (the release files store
+Python reprs, not clean JSON). Run `pytest tests/test_phase0.py` to reverify.
 
 ### Phase 1 — Reproduce the baseline (no improvements yet)
 3. Projection function: 3D pitch point → pixel; verify by reprojecting `ball_3D`
