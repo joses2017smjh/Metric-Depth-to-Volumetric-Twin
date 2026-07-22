@@ -8,6 +8,10 @@ data/
 *.mp4
 *.mkv
 
+# Regenerable eval caches (results CSVs are kept; caches are not)
+eval/*.parquet
+runs/
+
 # Python
 __pycache__/
 *.py[cod]

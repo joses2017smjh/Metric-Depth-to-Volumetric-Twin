@@ -1,0 +1,811 @@
+frame_id,has_gt,n_pred,best_iou,top_conf
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/13_0,True,6,0.7979,0.6564
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/13_1,True,7,0.9519,0.7853
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/14_2,True,10,0.8291,0.5184
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/14,True,15,0.6318,0.3879
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/19_1,True,13,0.5944,0.5961
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/19_4,True,14,0.8213,0.5912
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/29_2,True,5,0.8141,0.7519
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/29_3,True,9,0.9242,0.7261
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/29,True,8,0.5383,0.4442
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/33_4,True,10,0.6666,0.4089
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/33_5,True,25,0.6369,0.0738
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/33_2,True,15,0.4124,0.5712
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/7_0,True,7,0.8302,0.7649
+2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona/7,True,14,0.8466,0.4932
+2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid/12_0,True,4,0.5738,0.4288
+2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid/12,True,16,0.5593,0.4319
+2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid/29_0,True,7,0.6216,0.476
+2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid/29,True,14,0.579,0.4616
+2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid/30_5,True,14,0.7271,0.4541
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/10_0,True,11,0.8464,0.761
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/10_1,True,14,0.8193,0.4469
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/10,True,10,0.9279,0.7194
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/12,True,17,0.4958,0.3018
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/12_2,True,9,0.8838,0.7451
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/15_1,True,18,0.6057,0.602
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/15,True,12,0.543,0.5012
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/16,True,14,0.5744,0.4121
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/16_1,True,31,0.7114,0.1394
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/16_0,True,9,0.8103,0.4118
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/2_4,True,7,0.4392,0.4433
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/2,True,8,0.4224,0.4531
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/21,True,19,0.701,0.5301
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/21_0,True,2,0.9488,0.8361
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/22,True,11,0.7692,0.4666
+2017-02-26 - 23-00 Marseille 1 - 5 Paris SG/22_3,True,14,0.4287,0.4447
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/1_0,True,4,0.3042,0.4759
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/1,True,7,0.5349,0.5023
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/10_3,True,12,0.6618,0.4217
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/10_2,True,10,0.706,0.5532
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/12,True,6,0.5023,0.4388
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/12_0,True,10,0.6554,0.4299
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/15_0,True,7,0.5769,0.4889
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/15,True,10,0.7163,0.4309
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/16_0,True,21,0.7201,0.2704
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/16,True,15,0.2465,0.4384
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/18,True,6,0.473,0.486
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/18_2,True,6,0.8516,0.6212
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/18_1,True,10,0.7759,0.5039
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/20,True,12,0.5966,0.4382
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/20_0,True,15,0.8135,0.4758
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/20_2,True,10,0.4062,0.4796
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/22,True,14,0.3343,0.4577
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/22_0,True,6,0.533,0.4705
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/23,True,7,0.395,0.5069
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/23_0,True,8,0.6047,0.5954
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/8,True,9,0.4865,0.4342
+2017-02-27 - 23-00 Leicester 3 - 1 Liverpool/8_0,True,12,0.3953,0.4841
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/10,True,11,0.8212,0.7561
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/10_0,True,9,0.8875,0.6147
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/12_0,True,10,0.5533,0.53
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/12,True,7,0.7411,0.6934
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/15_0,True,13,0.5953,0.4851
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/15,True,17,0.7283,0.5532
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/18_0,True,2,0.9637,0.8344
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/18,True,18,0.4192,0.3656
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/2,True,8,0.3667,0.4713
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/2_3,True,8,0.6671,0.4195
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/20,True,10,0.6251,0.4142
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/20_4,True,25,0.8783,0.4829
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/23_0,True,13,0.7215,0.4809
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/23,True,9,0.8639,0.5004
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/26_4,True,13,0.6783,0.4468
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/26,True,7,0.5943,0.3989
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/27_0,True,17,0.4938,0.5128
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/27,True,12,0.5439,0.503
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/6_3,True,24,0.5306,0.3953
+2017-03-01 - 21-30 Barcelona 6 - 1 Gijon/6,True,18,0.7577,0.5124
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/0_0,True,7,0.8799,0.4504
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/0_1,True,5,0.6748,0.4284
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/13_0,True,13,0.868,0.7402
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/13,True,10,0.8494,0.605
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/2,True,8,0.6527,0.3364
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/2_3,True,10,0.8195,0.5814
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/2_4,True,7,0.6079,0.4363
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/26,True,6,0.5237,0.5179
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/26_0,True,12,0.7327,0.4574
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/3,True,25,0.4583,0.1159
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/37,True,8,0.6837,0.5017
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/37_0,True,8,0.6498,0.4873
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/4,True,9,0.5536,0.5292
+2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas/4_0,True,8,0.754,0.505
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/16_0,True,18,0.5517,0.4278
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/16_3,True,9,0.78,0.3958
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/16,True,12,0.608,0.4399
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/7_0,True,31,0.5216,0.0373
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/7,True,18,0.6546,0.1562
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/8_4,True,7,0.7839,0.4783
+2017-03-04 - 17-00 AS Roma 1 - 2 Napoli/8,True,7,0.868,0.5802
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/14,True,11,0.6771,0.4909
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/14_2,True,15,0.8322,0.4434
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/14_1,True,3,0.7327,0.6295
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/19,True,22,0.8442,0.5447
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/19_1,True,14,0.77,0.5619
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/27_0,True,12,0.2249,0.5196
+2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid/27,True,12,0.2148,0.5258
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/12_0,True,14,0.4739,0.5123
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/12,True,8,0.5304,0.5868
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/14_1,True,7,0.8315,0.6882
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/14,True,8,0.574,0.0707
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/17,True,16,0.5656,0.4934
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/17_1,True,15,0.8306,0.742
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/18_0,True,11,0.7314,0.78
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/18,True,14,0.7723,0.538
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/2,True,19,0.4958,0.451
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/2_0,True,10,0.8836,0.7217
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/20_0,True,12,0.7802,0.5292
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/20_1,True,19,0.6998,0.088
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/22,True,23,0.637,0.4279
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/22_0,True,8,0.7442,0.5216
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/23_0,True,5,0.9158,0.6948
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/23,True,6,0.7616,0.7892
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/28,True,13,0.3511,0.5014
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/28_1,True,9,0.33,0.5041
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/29,True,3,0.6807,0.5068
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/29_1,True,10,0.7541,0.4332
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/33,True,21,0.3719,0.4858
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/33_0,True,7,0.6397,0.4869
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/38_1,True,18,0.6533,0.4355
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/38,True,21,0.1853,0.3479
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/39_0,True,13,0.8194,0.743
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/39,True,8,0.5036,0.4858
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/41,True,11,0.7972,0.5373
+2017-03-04 - 19-00 Paris SG 1 - 0 Nancy/41_2,True,9,0.7969,0.746
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/12_0,True,17,0.5468,0.444
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/12,True,14,0.7547,0.4804
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/14_4,True,8,0.5701,0.4593
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/14_3,True,8,0.7498,0.425
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/14_0,True,13,0.6235,0.4743
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/14,True,7,0.3296,0.4476
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/19,True,12,0.9264,0.524
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/19_0,True,10,0.7444,0.4853
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/19_1,True,8,0.4014,0.5374
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/22,True,5,0.7153,0.3959
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/22_0,True,15,0.5641,0.5472
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/22_1,True,9,0.5934,0.4716
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/25_1,True,25,0.5943,0.5269
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/25_0,True,7,0.5621,0.4685
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/25,True,13,0.5889,0.449
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/26_0,True,6,0.7269,0.4844
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/26_4,True,13,0.6484,0.4677
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/26_5,True,15,0.5187,0.5665
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/26_2,True,9,0.534,0.4935
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/27_1,True,29,0.4675,0.3047
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/27,True,12,0.4096,0.4702
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/28_0,True,13,0.5708,0.5548
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/28_3,True,12,0.5641,0.4476
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/28,True,13,0.4032,0.4504
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/30_0,True,7,0.7189,0.5388
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/30,True,9,0.7235,0.5341
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/32,True,8,0.8687,0.6941
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/32_0,True,8,0.827,0.7686
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/5_2,True,11,0.5636,0.5243
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/5_0,True,4,0.8312,0.6992
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/5,True,11,0.6821,0.4238
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/8,True,8,0.4902,0.5158
+2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo/8_0,True,6,0.7173,0.7036
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/0,True,14,0.7874,0.5159
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/0_0,True,14,0.7663,0.5414
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/10,True,15,0.642,0.4413
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/10_0,True,9,0.6653,0.4935
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/15,True,11,0.5183,0.4568
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/15_1,True,5,0.7454,0.4403
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/19,True,21,0.6227,0.2966
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/19_0,True,14,0.688,0.2457
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/21,True,10,0.6154,0.5061
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/21_1,True,7,0.7657,0.5178
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/22_0,True,7,0.6787,0.4718
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/22,True,15,0.8475,0.7037
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/28,True,9,0.7452,0.4994
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/28_0,True,10,0.6893,0.4765
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/33,True,18,0.7546,0.354
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/33_0,True,23,0.794,0.5057
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/41_0,True,14,0.4688,0.5262
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/41,True,37,0.3756,0.442
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/50,True,30,0.4044,0.1891
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/50_2,True,12,0.651,0.4405
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/6,True,18,0.5998,0.0485
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/6_0,True,11,0.7048,0.5283
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/8,True,28,0.8318,0.0706
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/8_0,True,7,0.5876,0.5336
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/9,True,8,0.6091,0.4877
+2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid/9_0,True,8,0.7314,0.5206
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/0,True,7,0.4873,0.4595
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/0_1,True,14,0.6674,0.7192
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/22_0,True,10,0.6854,0.4985
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/22,True,11,0.6037,0.4962
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/24,True,24,0.5825,0.4709
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/24_1,True,7,0.7127,0.4709
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/25_2,True,18,0.4262,0.3876
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/25,True,19,0.3239,0.4185
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/27,True,14,0.7367,0.4855
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/27_0,True,23,0.7922,0.291
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/29,True,8,0.6784,0.4354
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/29_3,True,7,0.688,0.4809
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/30_0,True,4,0.5692,0.5242
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/30,True,10,0.5648,0.4905
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/37,True,26,0.4179,0.3636
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/37_0,True,14,0.5439,0.4753
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/38,True,22,0.4712,0.4967
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/38_0,True,18,0.5639,0.5101
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/42,True,7,0.4799,0.4081
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/42_0,True,23,0.5631,0.5538
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/8,True,10,0.2904,0.4702
+2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG/8_1,True,35,0.4291,0.5199
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/12,True,11,0.6293,0.4464
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/12_0,True,13,0.5736,0.4614
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/18,True,15,0.5721,0.4386
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/18_0,True,25,0.178,0.4809
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/24_0,True,14,0.8213,0.5399
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/24,True,14,0.7967,0.4831
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/27,True,31,0.6079,0.4746
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/27_0,True,13,0.8217,0.4935
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/3,True,12,0.6842,0.4532
+2017-03-12 - 17-00 Napoli 3 - 0 Crotone/3_0,True,11,0.8993,0.5814
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/12_1,True,7,0.5485,0.1578
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/12,True,24,0.6928,0.4183
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/20_0,True,17,0.6356,0.2114
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/20,True,13,0.6825,0.4788
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/24,True,9,0.7874,0.5146
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/24_0,True,15,0.7315,0.4848
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/28_1,True,26,0.7203,0.3673
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/28,True,16,0.8873,0.4825
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/9_2,True,16,0.8035,0.5951
+2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona/9,True,9,0.4921,0.506
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/13,True,12,0.8709,0.7071
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/13_0,True,10,0.1923,0.7329
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/14,True,37,0.5122,0.1301
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/14_3,True,8,0.2505,0.5255
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/14_0,True,23,0.6779,0.4861
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/17,True,13,0.6105,0.552
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/17_1,True,5,0.9042,0.6539
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/23_1,True,9,0.7062,0.7878
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/23,True,9,0.8147,0.5443
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/26_0,True,15,0.7155,0.5102
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/26,True,15,0.5961,0.4911
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/28,True,32,0.5008,0.468
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/28_3,True,19,0.3193,0.5134
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/5_0,True,16,0.4917,0.4625
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/5,True,16,0.4472,0.1289
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/7,True,24,0.7125,0.1495
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/7_0,True,10,0.55,0.3932
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/7_4,True,8,0.2934,0.4085
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/8_0,True,18,0.437,0.4779
+2017-03-12 - 22-45 Real Madrid 2 - 1 Betis/8,True,20,0.6472,0.4566
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/14_0,True,22,0.7024,0.2221
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/14,True,18,0.6082,0.3826
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/22_0,True,15,0.415,0.517
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/22,True,12,0.6267,0.5235
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/23,True,7,0.68,0.4696
+2017-03-12 - 23-00 Lorient 1 - 2 Paris SG/23_0,True,13,0.3965,0.6042
+2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid/15_4,True,7,0.5973,0.4081
+2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid/15,True,13,0.3769,0.4709
+2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid/6_0,True,18,0.6095,0.4553
+2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid/6,True,17,0.5667,0.533
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/11,True,4,0.9117,0.2533
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/11_0,True,10,0.8387,0.5474
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/2,True,8,0.8981,0.5348
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/2_3,True,13,0.6466,0.5877
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/26,True,17,0.4059,0.504
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/26_0,True,7,0.6967,0.4651
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/33_0,True,29,0.7372,0.4299
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/33,True,9,0.9536,0.5545
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/9,True,8,0.6942,0.4611
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/9_4,True,7,0.7378,0.4507
+2017-03-19 - 14-30 Empoli 2 - 3 Napoli/9_2,True,14,0.7022,0.4615
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/11,True,7,0.6264,0.5676
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/11_0,True,18,0.6088,0.4983
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/24,True,6,0.7307,0.4923
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/24_0,True,10,0.7603,0.4023
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/27,True,9,0.5918,0.4137
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/27_0,True,14,0.4806,0.3613
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/3,True,22,0.6823,0.2292
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/3_1,True,2,0.9316,0.8556
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/3_2,True,33,0.7557,0.2855
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/4,True,7,0.7504,0.4757
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/4_0,True,8,0.752,0.5066
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/5_0,True,9,0.8441,0.6219
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/5,True,10,0.7376,0.4899
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/6,True,8,0.4598,0.4364
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/6_2,True,9,0.6362,0.4451
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/6_1,True,10,0.5748,0.4306
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/7,True,9,0.9744,0.7044
+2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo/7_0,True,8,0.817,0.6013
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/12,True,8,0.315,0.4718
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/12_4,True,14,0.6302,0.4134
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/12_2,True,20,0.2546,0.5031
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/13,True,12,0.5211,0.4699
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/13_0,True,7,0.7215,0.4618
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/19,True,25,0.5295,0.4804
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/19_0,True,14,0.3249,0.2456
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/22_0,True,17,0.6128,0.2582
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/22,True,10,0.6665,0.4057
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/25_0,True,8,0.505,0.4893
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/25,True,15,0.5901,0.4697
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/29_0,True,6,0.7007,0.4718
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/29,True,9,0.485,0.5052
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/34,True,8,0.6166,0.4734
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/34_1,True,12,0.7398,0.4359
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/41,True,11,0.7138,0.514
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/41_1,True,10,0.706,0.4895
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/44_0,True,6,0.6071,0.4483
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/44,True,10,0.7472,0.5116
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/5,True,10,0.6297,0.478
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/5_0,True,8,0.7912,0.7391
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/8_0,True,14,0.7237,0.5245
+2017-03-19 - 22-45 Barcelona 4 - 2 Valencia/8,True,8,0.5292,0.6179
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/15_1,True,8,0.6682,0.3615
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/15_0,True,7,0.8788,0.6334
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/15,True,10,0.5066,0.42
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/18,True,11,0.6455,0.492
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/18_1,True,18,0.7167,0.4192
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/2,True,16,0.5211,0.3412
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/2_0,True,24,0.7949,0.4714
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/2_4,True,4,0.7123,0.6418
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/2_3,True,8,0.7174,0.4561
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/26_1,True,6,0.8409,0.4472
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/26,True,12,0.5111,0.4851
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/32,True,9,0.6403,0.4683
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/32_1,True,9,0.3277,0.6529
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/4,True,12,0.6274,0.503
+2017-03-19 - 23-00 Paris SG 2 - 1 Lyon/4_2,True,6,0.5404,0.6202
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/17,True,9,0.7751,0.4236
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/17_1,True,9,0.5923,0.4569
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/22_0,True,11,0.6674,0.4899
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/22_1,True,16,0.6736,0.446
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/25_0,True,7,0.8129,0.5029
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/25,True,8,0.4507,0.4777
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/30_1,True,15,0.5253,0.4814
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/30,True,13,0.5644,0.4394
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/35_0,True,9,0.3943,0.4182
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/35,True,6,0.3523,0.4839
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/4,True,13,0.2769,0.1908
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/4_0,True,13,0.7013,0.5149
+2017-04-01 - 21-45 AS Roma 2 - 0 Empoli/6_3,True,11,0.6481,0.3342
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/0_0,True,10,0.7791,0.7425
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/0,True,8,0.653,0.4956
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/1_1,True,4,0.883,0.8121
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/1,True,8,0.6028,0.4516
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/16_0,True,12,0.415,0.4872
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/16,True,22,0.536,0.3751
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/19,True,12,0.5453,0.5008
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/19_0,True,7,0.6365,0.4808
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/20_0,True,4,0.5828,0.4157
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/20_2,True,6,0.5455,0.4749
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/23_0,True,15,0.7074,0.4067
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/23_2,True,8,0.8491,0.4247
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/33,True,38,0.4774,0.3487
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/33_0,True,10,0.4825,0.4864
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/43,True,14,0.5331,0.4637
+2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona/43_1,True,8,0.5738,0.4154
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/15,True,15,0.6042,0.4903
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/15_0,True,23,0.5495,0.5697
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/19,True,18,0.5817,0.3532
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/19_1,True,6,0.6754,0.4916
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/4,True,26,0.6181,0.3827
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/4_0,True,21,0.4699,0.4336
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/6_3,True,8,0.8253,0.3195
+2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid/6_2,True,7,0.6319,0.4551
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/32,True,7,0.4444,0.4532
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/32_1,True,6,0.3986,0.491
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/43,True,8,0.8014,0.7609
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/43_1,True,7,0.7616,0.493
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/50_2,True,11,0.6306,0.5148
+2017-04-08 - 21-45 Malaga 2 - 0 Barcelona/50,True,17,0.5208,0.492
+2017-04-09 - 18-00 Everton 4 - 2 Leicester/5_0,True,13,0.8736,0.5783
+2017-04-09 - 18-00 Everton 4 - 2 Leicester/5,True,10,0.7594,0.4563
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/11,True,8,0.8674,0.4129
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/11_1,True,10,0.5439,0.3404
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/17,True,6,0.6222,0.4316
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/17_3,True,7,0.837,0.4953
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/18_0,True,5,0.572,0.4628
+2017-04-09 - 21-45 Lazio 0 - 3 Napoli/18,True,6,0.4554,0.432
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/12_0,True,10,0.7324,0.435
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/12,True,12,0.7088,0.4666
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/27,True,18,0.895,0.7613
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/27_2,True,8,0.9285,0.7601
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/27_0,True,2,0.8364,0.8347
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/29_1,True,6,0.9571,0.5699
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/29,True,12,0.7477,0.4695
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/30,True,12,0.5935,0.4727
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/30_0,True,8,0.7162,0.5899
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/35_1,True,14,0.5472,0.1354
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/35,True,14,0.5047,0.433
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/43_0,True,17,0.7415,0.4386
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/43,True,16,0.5169,0.514
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/5,True,11,0.5928,0.4404
+2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp/5_1,True,15,0.6361,0.469
+2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/15,True,12,0.4127,0.4365
+2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/15_0,True,20,0.4971,0.407
+2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/26_0,True,13,0.6758,0.5471
+2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid/26,True,26,0.432,0.0133
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/20_1,True,30,0.7609,0.4908
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/20,True,11,0.5772,0.4433
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/24_1,True,17,0.71,0.4622
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/24,True,15,0.9065,0.6554
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/27_0,True,38,0.8131,0.4826
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/27,True,7,0.9043,0.6946
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/35_0,True,19,0.7658,0.4182
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/35_4,True,9,0.7838,0.4683
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/4_0,True,9,0.6244,0.43
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/4,True,17,0.6547,0.1332
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/7_0,True,12,0.6864,0.4652
+2017-04-14 - 21-45 Angers 0 - 2 Paris SG/7,True,11,0.9189,0.5167
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/0,True,11,0.5191,0.4391
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/0_1,True,10,0.7816,0.4327
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/23,True,8,0.8244,0.6473
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/23_1,True,14,0.7913,0.4684
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/26_1,True,6,0.8229,0.4757
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/26,True,7,0.6561,0.4109
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/28,True,12,0.6711,0.4569
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/28_0,True,10,0.5998,0.4567
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/30,True,8,0.8116,0.4552
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/30_1,True,13,0.6677,0.4794
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/5_0,True,14,0.6579,0.4808
+2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta/5,True,7,0.4412,0.4453
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/10,True,11,0.7631,0.6343
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/10_0,True,7,0.8371,0.5271
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/21_4,True,15,0.6698,0.417
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/21_5,True,8,0.2663,0.4225
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/24_0,True,9,0.534,0.5203
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/24,True,7,0.6357,0.4861
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/24_1,True,11,0.4792,0.4705
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/26,True,14,0.7366,0.5271
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/26_0,True,8,0.7824,0.5227
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/36,True,25,0.5885,0.3909
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/36_4,True,8,0.8656,0.5715
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/36_2,True,10,0.8204,0.5258
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/36_3,True,19,0.6981,0.4468
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/5_0,True,13,0.8715,0.5242
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/5_5,True,11,0.6821,0.4136
+2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid/5,True,21,0.688,0.4759
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/18_2,True,6,0.6864,0.486
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/18_3,True,4,0.5698,0.5684
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/23_0,True,9,0.6434,0.4735
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/23,True,15,0.5393,0.4595
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/5,True,10,0.427,0.4724
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/5_0,True,8,0.6394,0.4942
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/9,True,7,0.5856,0.3873
+2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad/9_2,True,5,0.7176,0.4597
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/20_0,True,15,0.6284,0.7392
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/20,True,12,0.892,0.7713
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/21_1,True,14,0.6136,0.6435
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/21,True,24,0.7865,0.5142
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/25_2,True,8,0.5463,0.3156
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/25,True,15,0.5401,0.4283
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/3_0,True,7,0.838,0.7677
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/3,True,12,0.8161,0.6944
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/32_0,True,28,0.753,0.4473
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/32,True,12,0.7876,0.4894
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/33,True,11,0.5411,0.46
+2017-04-18 - 19-30 Metz 2 - 3 Paris SG/33_0,True,16,0.6259,0.4523
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/15,True,14,0.6502,0.4279
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/15_0,True,3,0.8744,0.6189
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/16,True,18,0.6327,0.4912
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/16_0,True,9,0.7942,0.7745
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/19_0,True,16,0.5926,0.4497
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/19,True,8,0.7895,0.4786
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/2_0,True,13,0.5861,0.4458
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/2,True,8,0.7593,0.4935
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/23_0,True,6,0.8133,0.7023
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/23,True,8,0.7676,0.6624
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/26,True,35,0.0,0.1277
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/26_2,True,6,0.6003,0.543
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/27_0,True,6,0.7047,0.4257
+2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich/27,True,38,0.2988,0.2311
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/13_0,True,8,0.2852,0.0153
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/13,True,5,0.6465,0.6079
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/15,True,18,0.6138,0.4326
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/15_0,True,9,0.855,0.7716
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/16,True,11,0.4503,0.3966
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/16_0,True,10,0.3287,0.3227
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/17_0,True,3,0.5398,0.5582
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/17_3,True,5,0.4601,0.435
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/2_1,True,17,0.6129,0.4592
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/2,True,12,0.5023,0.4435
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/22_0,True,2,0.8748,0.6759
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/22_1,True,6,0.8934,0.7483
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/22,True,8,0.6094,0.7234
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/24,True,14,0.6606,0.4625
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/24_0,True,20,0.5373,0.458
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/4,True,7,0.7541,0.6404
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/4_0,True,6,0.7498,0.7697
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/6,True,6,0.7665,0.6439
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/6_0,True,16,0.57,0.038
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/9_2,True,11,0.4867,0.4051
+2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier/9,True,13,0.542,0.4081
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/10_0,True,16,0.7195,0.4432
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/10,True,6,0.8209,0.4506
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/25_0,True,16,0.6828,0.4074
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/25,True,24,0.7147,0.0871
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/26_0,True,10,0.8059,0.6457
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/26,True,8,0.7894,0.6671
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/9_0,True,6,0.7294,0.5266
+2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli/9,True,9,0.7727,0.4936
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/27,True,26,0.6095,0.3546
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/27_0,True,15,0.6703,0.4918
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/28,True,19,0.5331,0.5119
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/28_1,True,30,0.5736,0.4542
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/37,True,8,0.5481,0.4689
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/37_0,True,11,0.7374,0.4331
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/39_2,True,21,0.7317,0.4081
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/39,True,28,0.5741,0.2637
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/6_0,True,10,0.6656,0.4887
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/6,True,17,0.6248,0.4876
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/7,True,10,0.7629,0.4652
+2017-04-24 - 21-45 Pescara 1 - 4 AS Roma/7_1,True,27,0.7496,0.4671
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/1_0,True,36,0.5242,0.4474
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/1,True,42,0.3144,0.4295
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/1_1,True,29,0.6658,0.4452
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/11_0,True,9,0.8873,0.7713
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/11,True,9,0.9202,0.7026
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/13,True,7,0.4793,0.4592
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/13_0,True,17,0.5805,0.5668
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/17,True,15,0.614,0.4389
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/17_1,True,20,0.6788,0.4618
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/19_0,True,21,0.6183,0.2512
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/19,True,24,0.4681,0.1759
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/2_0,True,10,0.2717,0.4604
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/2,True,11,0.5426,0.452
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/20,True,12,0.4211,0.3883
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/20_0,True,15,0.7031,0.4862
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/26_1,True,6,0.5747,0.4268
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/26,True,38,0.6835,0.3914
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/29,True,21,0.4634,0.4541
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/29_0,True,15,0.6642,0.6943
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/30_1,True,10,0.7759,0.4234
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/30_2,True,16,0.897,0.4899
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/30_0,True,14,0.689,0.4043
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/30,True,20,0.5097,0.39
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/34_0,True,17,0.7018,0.4993
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/34,True,31,0.2612,0.3382
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/5_1,True,23,0.673,0.402
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/5,True,17,0.4583,0.0912
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/8,True,19,0.0,0.0455
+2017-04-26 - 21-45 Arsenal 1 - 0 Leicester/8_0,True,29,0.6624,0.2238
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/0_1,True,11,0.8985,0.4724
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/0_4,True,19,0.8651,0.4211
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/0,True,50,0.3178,0.0638
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/15_1,True,13,0.8462,0.4532
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/15_0,True,12,0.7777,0.5005
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/18_0,True,11,0.6991,0.603
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/18,True,18,0.4255,0.3633
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/2_1,True,11,0.5395,0.5099
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/2_3,True,10,0.7501,0.3866
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/2,True,9,0.578,0.5324
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/24,True,21,0.4894,0.2052
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/24_0,True,8,0.3355,0.4386
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/25_0,True,7,0.5594,0.5602
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/25,True,10,0.5746,0.0582
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/26_1,True,9,0.3474,0.4407
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/26,True,20,0.5275,0.4696
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/28_1,True,9,0.4873,0.5109
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/28,True,28,0.5595,0.4861
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/29_0,True,12,0.7533,0.7547
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/29,True,15,0.5278,0.4883
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/3_0,True,3,0.5335,0.5215
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/4,True,27,0.5252,0.1337
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/4_3,True,32,0.6397,0.2293
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/4_1,True,8,0.7161,0.4612
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/6,True,20,0.6177,0.4795
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/6_0,True,9,0.8052,0.4723
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/9_0,True,12,0.8333,0.516
+2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid/9,True,15,0.3819,0.0696
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/11,True,9,0.3793,0.492
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/11_0,True,18,0.4102,0.2771
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/17,True,14,0.8949,0.4471
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/17_0,True,17,0.5129,0.3468
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/6,True,9,0.8727,0.535
+2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln/6_1,True,6,0.8833,0.8181
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/1_1,True,3,0.6914,0.8395
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/1_0,True,12,0.4195,0.48
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/12_0,True,15,0.7933,0.7444
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/12,True,11,0.6344,0.4325
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/19_5,True,23,0.4261,0.4446
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/19,True,14,0.5074,0.0194
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/19_1,True,6,0.6483,0.2551
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/4_0,True,15,0.5684,0.5135
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/4,True,13,0.4547,0.5004
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/4_1,True,5,0.7848,0.7834
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/5_0,True,12,0.4002,0.5231
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/5,True,36,0.3345,0.5517
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/7_3,True,9,0.7679,0.7266
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/7,True,12,0.4536,0.4024
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/8_0,True,8,0.5605,0.5582
+2017-04-30 - 22-00 Nice 3 - 1 Paris SG/8,True,15,0.521,0.5079
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/22_0,True,29,0.3318,0.4934
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/22,True,13,0.7202,0.3239
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/5_0,True,13,0.7795,0.4349
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/5,True,11,0.7468,0.463
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/9,True,23,0.5879,0.4745
+2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid/9_0,True,9,0.4773,0.5397
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/0_2,True,17,0.3737,0.4917
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/0,True,8,0.5291,0.4967
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/13_3,True,7,0.6526,0.644
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/13,True,26,0.3824,0.2722
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/22_0,True,19,0.7651,0.0951
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/22,True,6,0.9456,0.5617
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/26_3,True,5,0.7356,0.6981
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/26,True,11,0.4471,0.5461
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/26_2,True,12,0.5821,0.4774
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/27_2,True,17,0.6636,0.3181
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/27,True,7,0.8035,0.5887
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/28_0,True,13,0.6888,0.5936
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/28_3,True,19,0.608,0.4629
+2017-05-06 - 18-00 Paris SG 5 - 0 Bastia/28,True,16,0.6486,0.4533
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/1_0,True,11,0.9364,0.7942
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/1,True,10,0.6627,0.5591
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/11_1,True,2,0.8689,0.8429
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/11,True,18,0.5822,0.4934
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/14_2,True,18,0.372,0.491
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/14,True,12,0.5247,0.4929
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/17,True,7,0.5772,0.5039
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/17_0,True,9,0.7857,0.489
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/2_0,True,5,0.926,0.8398
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/2,True,12,0.7669,0.462
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/25_0,True,25,0.437,0.3463
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/25,True,53,0.4891,0.2901
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/28_4,True,11,0.676,0.5421
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/28,True,6,0.6941,0.4559
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/3_3,True,13,0.7404,0.7173
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/3_4,True,9,0.5772,0.6974
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/3,True,7,0.511,0.47
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/8,True,10,0.7569,0.7106
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/8_0,True,13,0.697,0.4837
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/9_1,True,28,0.6202,0.5121
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/9,True,11,0.6346,0.5206
+2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal/9_0,True,4,0.8815,0.6336
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/1,True,8,0.8839,0.4785
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/1_0,True,11,0.8619,0.7344
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/16,True,15,0.4604,0.4535
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/16_1,True,31,0.507,0.4807
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/2,True,12,0.8052,0.4546
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/2_3,True,9,0.6335,0.4414
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/21,True,36,0.6395,0.3707
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/21_0,True,13,0.7844,0.6105
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/23_0,True,7,0.8118,0.5475
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/23,True,33,0.7408,0.3041
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/24,True,28,0.5659,0.376
+2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid/24_0,True,7,0.5801,0.435
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/13,True,14,0.5987,0.4747
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/13_0,True,17,0.3828,0.2411
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/20,True,10,0.7548,0.0034
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/20_1,True,8,0.5983,0.463
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/26,True,29,0.8939,0.209
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/26_1,True,40,0.4418,0.2185
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/29_0,True,9,0.5759,0.4664
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/29,True,12,0.5342,0.5043
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/30_0,True,8,0.9334,0.5022
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/30_1,True,23,0.8503,0.2277
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/5,True,17,0.6581,0.4086
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/5_1,True,11,0.6772,0.568
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/6,True,11,0.7103,0.495
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/6_0,True,11,0.6957,0.5437
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/7_0,True,13,0.5857,0.5217
+2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma/7,True,12,0.7029,0.511
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/12,True,10,0.4582,0.325
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/12_0,True,7,0.2775,0.512
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/14_1,True,30,0.6378,0.3391
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/14_0,True,6,0.743,0.4528
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/15,True,12,0.4145,0.3672
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/15_2,True,14,0.5066,0.4815
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/22,True,14,0.4344,0.2708
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/22_0,True,18,0.6636,0.592
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/23,True,7,0.1322,0.5969
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/23_1,True,8,0.8491,0.7609
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/28,True,13,0.2834,0.4594
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/28_0,True,5,0.4335,0.4949
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/9_0,True,23,0.6703,0.2012
+2017-05-13 - 14-30 Manchester City 2 - 1 Leicester/9,True,9,0.3918,0.4167
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/10,True,18,0.535,0.4919
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/10_0,True,9,0.7474,0.5537
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/23,True,15,0.4594,0.5271
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/23_0,True,10,0.6429,0.5276
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/5_2,True,26,0.3172,0.3207
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/5,True,20,0.6071,0.4239
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/8,True,15,0.5682,0.5126
+2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund/8_2,True,17,0.4153,0.4161
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/1_1,True,7,0.6919,0.4138
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/1,True,9,0.479,0.425
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/11_0,True,7,0.7322,0.5034
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/11,True,4,0.536,0.5214
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/20_3,True,17,0.8347,0.3764
+2017-05-14 - 16-00 Torino 0 - 5 Napoli/20,True,14,0.9014,0.4491
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/1,True,28,0.5962,0.0437
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/1_0,True,25,0.5916,0.4701
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/11,True,10,0.444,0.4569
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/11_2,True,6,0.6604,0.5791
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/14_5,True,33,0.2554,0.2271
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/14,True,8,0.7391,0.718
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/14_0,True,7,0.9293,0.4682
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/21,True,7,0.7556,0.5091
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/21_1,True,9,0.842,0.5198
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/24_4,True,14,0.4982,0.0439
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/24_0,True,8,0.7958,0.5223
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/28_0,True,9,0.7953,0.4041
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/28,True,14,0.411,0.4514
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/28_5,True,9,0.6059,0.4435
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/29_0,True,15,0.9101,0.475
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/29,True,12,0.7127,0.5016
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/4,True,15,0.4836,0.3944
+2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla/4_0,True,36,0.0,0.0207
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/10_1,True,11,0.7354,0.4585
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/10,True,16,0.4882,0.4569
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/14_0,True,10,0.4086,0.466
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/14,True,8,0.6441,0.4967
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/27,True,26,0.4682,0.2521
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/27_0,True,5,0.586,0.4677
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/31,True,16,0.5709,0.4757
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/31_2,True,12,0.3354,0.3983
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/34_3,True,5,0.5492,0.4535
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/34_2,True,6,0.7186,0.4946
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/34,True,13,0.6711,0.4597
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/37_0,True,6,0.679,0.4991
+2017-05-14 - 21-45 AS Roma 3 - 1 Juventus/37,True,9,0.6474,0.4806
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/1,True,12,0.6487,0.4606
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/1_0,True,9,0.8599,0.6841
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/2,True,19,0.6463,0.4096
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/2_0,True,15,0.7238,0.4887
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/3_1,True,7,0.8919,0.7234
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/3,True,10,0.6556,0.4987
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/6,True,18,0.6625,0.4474
+2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG/6_1,True,6,0.8735,0.7689
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/15_0,True,8,0.8121,0.5461
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/15,True,12,0.5043,0.4545
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/2,True,14,0.6402,0.4505
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/2_1,True,17,0.3435,0.4709
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/21,True,28,0.5475,0.4787
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/21_1,True,9,0.8966,0.7077
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/4,True,7,0.5811,0.5197
+2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid/4_0,True,6,0.8014,0.4701
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/2_0,True,9,0.7155,0.458
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/2,True,13,0.6684,0.4807
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/22,True,7,0.7684,0.5012
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/22_1,True,8,0.7647,0.5131
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/9_3,True,7,0.7535,0.439
+2017-05-20 - 19-00 Chievo 3 - 5 AS Roma/9,True,12,0.5788,0.4862
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/1,True,8,0.8869,0.5286
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/1_1,True,16,0.4535,0.4649
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/13_0,True,8,0.9132,0.5965
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/13,True,10,0.5907,0.4927
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/17,True,11,0.6386,0.4772
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/17_0,True,9,0.6077,0.4996
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/20,True,12,0.6221,0.481
+2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina/20_0,True,9,0.6327,0.4879
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/13_0,True,37,0.3696,0.504
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/13,True,17,0.2341,0.5792
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/17,True,13,0.7654,0.485
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/17_1,True,10,0.7024,0.4739
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/25_2,True,9,0.6335,0.4588
+2017-05-20 - 22-00 Paris SG 1 - 1 Caen/25,True,12,0.7084,0.348
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/10,True,11,0.5646,0.49
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/10_0,True,26,0.333,0.2976
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/12,True,9,0.5814,0.7887
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/12_0,True,14,0.6317,0.7674
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/14_0,True,20,0.468,0.4617
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/14,True,14,0.6927,0.4781
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/18,True,9,0.6751,0.4776
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/18_1,True,15,0.7062,0.4888
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/19_3,True,17,0.7078,0.441
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/19,True,24,0.4356,0.4263
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/2,True,10,0.75,0.3977
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/2_0,True,12,0.6446,0.4101
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/2_2,True,10,0.8752,0.0308
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/3,True,9,0.5646,0.459
+2017-05-21 - 21-00 Barcelona 4 - 2 Eibar/3_1,True,12,0.7276,0.689
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/1_5,True,12,0.6001,0.4837
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/1,True,8,0.613,0.451
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/11,True,22,0.6264,0.3935
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/11_0,True,26,0.7126,0.3663
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/20_0,True,8,0.702,0.6023
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/20,True,10,0.5732,0.4363
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/21,True,17,0.6304,0.4787
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/21_0,True,8,0.5748,0.5075
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/4_0,True,8,0.5238,0.5298
+2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid/4,True,8,0.5967,0.4876
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/11,True,8,0.5337,0.4809
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/11_3,True,8,0.8654,0.5358
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/13_0,True,9,0.6892,0.7521
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/13,True,16,0.8457,0.4596
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/20_1,True,6,0.5103,0.4989
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/20,True,5,0.5189,0.4784
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/22_2,True,7,0.4514,0.425
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/22,True,9,0.5024,0.3193
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/4,True,28,0.5544,0.3903
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/4_2,True,27,0.6026,0.5205
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/4_1,True,7,0.6597,0.3224
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/9,True,13,0.8513,0.5134
+2017-05-28 - 19-00 AS Roma 3 - 2 Genoa/9_0,True,12,0.6329,0.4877
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/12_0,True,10,0.6533,0.5176
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/12,True,29,0.4959,0.4189
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/15_0,True,14,0.3591,0.2665
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/15,True,26,0.4839,0.3089
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/19_1,True,11,0.6849,0.4709
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/19,True,10,0.2966,0.032
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/23,True,13,0.5957,0.3625
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/23_0,True,7,0.593,0.4834
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/28_0,True,14,0.7343,0.4859
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/28,True,39,0.5476,0.3024
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/3,True,16,0.3289,0.0478
+2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli/3_1,True,15,0.3627,0.4936
