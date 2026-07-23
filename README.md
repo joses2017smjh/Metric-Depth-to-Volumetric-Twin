@@ -85,8 +85,23 @@ woven in wherever triangulation happens.
   +13% median, **5.4× more estimates within 2 m**. Single-view depth-from-gravity
   is ill-posed alone (it diverges without the prior anchor) — see the results doc
   for that diagnosis, the window-length limit, and the tail caveat.
-- **Phase 2 / Track 1 — next.** Temporal ball detection; needs dense frames
-  (a confirmed SoccerNet video download), see `PHASE2_SCOPE.md`.
+- **Phase 2 / Track 4 — DONE** (uncertainty-aware triangulation; results in
+  [`eval/TRACK4_RESULTS.md`](eval/TRACK4_RESULTS.md)). Propagating pixel noise
+  through triangulation to a 3×3 covariance shows reprojection error **cannot**
+  detect low-parallax failures: SoccerNet groups with σ>1 m have *lower* median
+  reprojection error (0.97 px) than well-conditioned ones (2.16 px), Spearman
+  −0.188. Predicted σ ranks physically-impossible positions monotonically
+  (0.3% → 71.4%), and a parallax ≥5° gate **discards 1.2% of annotations to
+  remove 57% of the impossible ones**. Covariance calibration is Monte-Carlo
+  validated in `tests/test_uncertainty.py`.
+- **Phase 2 / Track 1 — BLOCKED.** Temporal ball detection needs dense video
+  frames, and SoccerNet videos are gated behind the **NDA password** (unlike the
+  frames, which ship a public password in the `SoccerNet` package). All known
+  passwords return HTTP 401. To unblock: request the password via the NDA form
+  at [soccer-net.org](https://www.soccer-net.org/) and set
+  `downloader.password`. Keyframe→video mapping is already solved (`half` +
+  `position` ms), and only **action** frames are usable (replay frames store the
+  action's timestamp, not their own airtime).
 
 Dataset as loaded: 400 matches, 5,872 action frames, 7,839 replay frames,
 5,872 action→replay multi-view groups, ~81.6k player boxes with pose keypoints.
