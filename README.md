@@ -71,9 +71,22 @@ woven in wherever triangulation happens.
   Test frames come from `Frames-v3.zip` via the `SoccerNet` package — **no NDA**;
   the package ships the shared-folder password. Custom AP metric cross-checks
   against official Ultralytics `val` to within 0.003. 12/12 tests pass.
-- **Phase 2 — scoped.** See [`PHASE2_SCOPE.md`](PHASE2_SCOPE.md): start Track 2
-  (physics-constrained depth) on ISSIA-3D, which is continuous 25 fps video with
-  per-frame ball annotations already in hand.
+- **Phase 2 / Track 2 — DONE** (physics-constrained depth on ISSIA-3D; scope in
+  [`PHASE2_SCOPE.md`](PHASE2_SCOPE.md), results in
+  [`eval/TRACK2_RESULTS.md`](eval/TRACK2_RESULTS.md)). Fitting a gravity-
+  constrained trajectory over a 360 ms window of one camera's 2D ball track,
+  anchored to the size prior, beats the per-frame size prior on 73% of windows:
+
+  | Method | median | P2m (within 2 m) |
+  |---|---|---|
+  | baseline (size prior) | 3.26 m | 0.07 |
+  | **physics (ballistic window)** | **2.82 m** | **0.37** |
+
+  +13% median, **5.4× more estimates within 2 m**. Single-view depth-from-gravity
+  is ill-posed alone (it diverges without the prior anchor) — see the results doc
+  for that diagnosis, the window-length limit, and the tail caveat.
+- **Phase 2 / Track 1 — next.** Temporal ball detection; needs dense frames
+  (a confirmed SoccerNet video download), see `PHASE2_SCOPE.md`.
 
 Dataset as loaded: 400 matches, 5,872 action frames, 7,839 replay frames,
 5,872 action→replay multi-view groups, ~81.6k player boxes with pose keypoints.

@@ -56,6 +56,32 @@ def load_issia_csv(path: str | Path) -> pd.DataFrame:
     return df
 
 
+ISSIA_FPS = 25.0  # continuous footage frame rate
+
+
+def issia_camera_track(df: pd.DataFrame, camera_index: int) -> pd.DataFrame:
+    """Per-camera 2D ball track for temporal methods (Track 2).
+
+    Returns rows (sorted by frame) where camera `camera_index` observed the
+    ball, with columns: frame, u, v (pixels, unflipped orientation),
+    opt_d (optimized apparent diameter, pixels), and ball_3D (triangulated GT
+    when available, else None). Ready to slice into time windows.
+    """
+    c = camera_index
+    xc, yc, dc = f"x_cam{c}", f"y_cam{c}", f"opt_d_cam{c}"
+    obs = df[df[xc].notna()].copy()
+    out = pd.DataFrame(
+        {
+            "frame": obs["frame"].to_numpy(),
+            "u": obs[xc].to_numpy(),
+            "v": obs[yc].to_numpy(),
+            "opt_d": obs[dc].to_numpy() if dc in obs else np.nan,
+            "ball_3D": obs["ball_3D"].to_numpy(),
+        }
+    ).sort_values("frame").reset_index(drop=True)
+    return out
+
+
 def unflip_image(image: np.ndarray, camera_index: int) -> np.ndarray:
     """Restore the original orientation of a downloaded ISSIA frame.
 
