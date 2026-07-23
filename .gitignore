@@ -10,6 +10,7 @@ data/
 
 # Regenerable eval caches (results CSVs are kept; caches are not)
 eval/*.parquet
+eval/*.pkl
 runs/
 
 # Python
@@ -25,3 +26,9 @@ venv/
 *.log
 wandb/
 runs/
+
+# NDA-gated SoccerNet videos and any local credentials — never commit
+data/video/
+*.mkv
+.env
+*secret*

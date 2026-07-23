@@ -94,14 +94,21 @@ woven in wherever triangulation happens.
   (0.3% → 71.4%), and a parallax ≥5° gate **discards 1.2% of annotations to
   remove 57% of the impossible ones**. Covariance calibration is Monte-Carlo
   validated in `tests/test_uncertainty.py`.
-- **Phase 2 / Track 1 — BLOCKED.** Temporal ball detection needs dense video
-  frames, and SoccerNet videos are gated behind the **NDA password** (unlike the
-  frames, which ship a public password in the `SoccerNet` package). All known
-  passwords return HTTP 401. To unblock: request the password via the NDA form
-  at [soccer-net.org](https://www.soccer-net.org/) and set
-  `downloader.password`. Keyframe→video mapping is already solved (`half` +
-  `position` ms), and only **action** frames are usable (replay frames store the
-  action's timestamp, not their own airtime).
+- **Phase 2 / Track 1 — DONE, negative result** (temporal ball detection;
+  results in [`eval/TRACK1_RESULTS.md`](eval/TRACK1_RESULTS.md)). Test-time
+  temporal aggregation over ±4 video frames (206 action keyframes, 31 matches)
+  buys **+2 recall** but **−1.4 AP@0.5** — the recovered detections are often
+  wrong. The valuable finding is diagnostic: an **oracle track reaches IoU≥0.5
+  on 78% of the frames the baseline misses, while our selection achieves 6.4%**,
+  so the temporal signal is abundant and the bottleneck is *track selection*.
+  The track premise also needs revision — the detector usually *finds* the ball
+  (85% of "misses" have a detection within 40 px) but fails IoU on a ~15 px
+  object, so this is a localization problem, not a detection one.
+
+  Videos are NDA-gated; supply the password via `SOCCERNET_PASSWORD` (never
+  committed). Keyframe→video alignment is validated at NCC ≈ 0.995, median
+  offset 0 ms. Only **action** frames are usable — replay frames store the
+  action's timestamp, not their own airtime.
 
 Dataset as loaded: 400 matches, 5,872 action frames, 7,839 replay frames,
 5,872 action→replay multi-view groups, ~81.6k player boxes with pose keypoints.
